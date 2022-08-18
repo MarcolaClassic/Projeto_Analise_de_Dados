@@ -1,1 +1,1 @@
-# Projeto_An-lise_de_Dados
+# Projeto de análise de dados, usei o editor de código chamado jupyter e antes de executar alguns programas (algoritmo) você deve instalar as bibliotecas de cada algoritmo usando o comando que está entre aspas "!pip install (nome da biblioteca)"
